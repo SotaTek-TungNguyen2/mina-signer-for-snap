@@ -1,6 +1,6 @@
 # Mina Signer
 
-This is a NodeJS SDK that allows you to sign strings, payments, and delegations using Mina's key pairs for various specified networks.
+This is a NodeJS SDK that allows you to sign strings, payments, and delegations using Mina's key pairs for various specified networks. This is the patched version for snap's compatibility.
 
 # Install
 
